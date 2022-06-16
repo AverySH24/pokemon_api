@@ -1,0 +1,10 @@
+#box{
+  margin-top: 300px;
+  display: flex;
+  justify-content:center;
+}
+
+button{
+  margin-left: 50%;
+  margin-right: 50%;
+}
